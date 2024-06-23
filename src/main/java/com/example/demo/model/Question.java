@@ -7,7 +7,6 @@ public class Question {
     private List<String> options;
     private int correctAnswerIndex;
 
-    // Constructor, getters, and setters
 
     public Question(String questionText, List<String> options, int correctAnswerIndex) {
         this.questionText = questionText;
